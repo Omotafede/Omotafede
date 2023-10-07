@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Oluwatobi Omotafede Okafor, mostly referred to as Omotafede. I am a Backend Developer with love for learning and working with languages and frameworks such as Python, Django, DRF, etc... 
+I'm Oluwatobi Omotafede Okafor, mostly referred to as Omotafede. I am a Backend Developer with love for learning and working with languages and frameworks such as Python, SQL, Django, DRF, etc... 
 I'm a Cybersecurity enthusiast, keen on protecting myself and others.  I'm continually learning and open to collaborations.
 
 
