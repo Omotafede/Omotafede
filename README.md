@@ -1,4 +1,4 @@
-![banner2](https://github.com/Omotafede/Omotafede/assets/130931545/858df449-6e59-4c4b-b8de-0c253dfdadc9) 'width'='200'.
+![banner2, 'width'= 200](https://github.com/Omotafede/Omotafede/assets/130931545/858df449-6e59-4c4b-b8de-0c253dfdadc9) 
 ## Hi there 👋
 I'm Oluwatobi Omotafede Okafor, mostly referred to as Omotafede. 
 I am a Backend Developer with love for learning and working with languages and frameworks such as Python, SQL, Django, DRF, etc... 
